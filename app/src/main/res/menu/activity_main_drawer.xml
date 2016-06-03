@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/location"
+            android:title="First UI" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/chat"
+            android:title="Messages                             16"
+
+            />
+
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/galcoloured"
+            android:title="Photo                                 54" />
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/friends"
+            android:title="Friends" />
+
+        <item
+            android:id="@+id/music"
+            android:icon="@drawable/music"
+            android:title="Music                              192" />
+        <item
+            android:id="@+id/notification"
+            android:icon="@drawable/alarm"
+            android:title="Notifications                       89+" />
+
+<item android:title="Settings"
+    android:icon="@drawable/location">
+
+</item>
+
+    </group>
+
+
+
+
+</menu>
