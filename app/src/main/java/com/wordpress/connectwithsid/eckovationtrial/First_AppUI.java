@@ -33,7 +33,7 @@ public class First_AppUI extends Fragment {
 
 
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_first__app_ui, container, false);
+        return inflater.inflate(R.layout.trialcirclar, container, false);
     }
 
 
